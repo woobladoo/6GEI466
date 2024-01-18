@@ -1,6 +1,6 @@
 "# 6GEI466" 
 
-…or create a new repository on the command line
+…or create a new repository on the command line \n
 echo "# 6GEI466" >> README.md
 git init
 git add README.md
